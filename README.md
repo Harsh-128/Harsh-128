@@ -1,5 +1,12 @@
-# 💫 About Me:
 <h1 align="center">Hi 👋, I'm Harsh Sharma</h1><br><h3 align="center">B.Tech IT Student | MERN Stack Developer | AI/ML Enthusiast</h3><br><br><p align="center"><br>  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;AI%2FML+Enthusiast;Competitive+Programmer;Open+Source+Learner;Always+Learning+New+Technologies" alt="Typing SVG" /><br></p>
+
+## 👨‍💻 About Me
+
+- 🔭 I'm currently working on **CodeSync – a Real-Time Collaborative Code Editor using React, Node.js, Express.js, MongoDB, and Socket.IO**
+- 👯 I'm looking to collaborate on **Open Source Projects, Full-Stack Web Applications, and AI/ML Projects**
+- 🌱 I'm currently learning **Advanced MERN Stack, AWS, System Design, and Data Structures & Algorithms**
+- 💬 Ask me about **C++, Java, JavaScript, React, Node.js, Express.js, MongoDB, REST APIs, Socket.IO, and Git**
+- ⚡ Fun fact: **I enjoy building real-world projects and solving LeetCode problems.**
 
 
 ## 🌐 Socials:
