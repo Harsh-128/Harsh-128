@@ -12,12 +12,11 @@ B.Tech IT Student | MERN Stack Developer | AI/ML Enthusiast
 
 ## 👨‍💻 About Me
 
-- 🎓 Final year B.Tech Information Technology student at **VIT Vellore**
-- 🔭 Currently building **CodeSync – A Real-Time Collaborative Code Editor**
-- 🌱 Currently learning **System Design, AWS, and Advanced Data Structures & Algorithms**
-- 👯 Open to collaborating on **Open Source, Full-Stack, and AI/ML Projects**
-- 💬 Ask me about **React, Node.js, Express.js, MongoDB, JavaScript, C++, Java, REST APIs, and Socket.IO**
-- ⚡ I enjoy building real-world projects and solving DSA problems.
+- 🎓 Final Year B.Tech Information Technology student at **VIT Vellore**
+- 💼 Successfully completed the **IBM Generative AI Internship**, gaining hands-on experience with Generative AI concepts and applications.
+- 🔭 Currently developing **CodeSync**, a real-time collaborative code editor.
+- 🌱 Currently learning **System Design, AWS, and Advanced Data Structures & Algorithms**.
+- 👯 Interested in collaborating on **Open Source, Full-Stack, and AI/ML projects**.
 
 ---
 
