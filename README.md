@@ -12,6 +12,7 @@ B.Tech IT Student | MERN Stack Developer | AI/ML Enthusiast
 
 ## 👨‍💻 About Me
 
+- 🎓 Final year B.Tech Information Technology student at **VIT Vellore**
 - 🔭 Currently building **CodeSync – A Real-Time Collaborative Code Editor**
 - 🌱 Currently learning **System Design, AWS, and Advanced Data Structures & Algorithms**
 - 👯 Open to collaborating on **Open Source, Full-Stack, and AI/ML Projects**
@@ -107,20 +108,6 @@ B.Tech IT Student | MERN Stack Developer | AI/ML Enthusiast
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-128&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Harsh-128&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
-</p>
-
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Harsh-128&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
