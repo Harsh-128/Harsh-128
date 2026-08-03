@@ -12,7 +12,7 @@ B.Tech IT Student | MERN Stack Developer | AI/ML Enthusiast
 
 ## 👨‍💻 About Me
 
-- 🎓 Final Year B.Tech Information Technology student at **VIT Vellore**
+- 🎓 Final Year B.Tech Information Technology student at **[VIT Vellore](https://vit.ac.in/)**
 - 💼 Successfully completed the **IBM Generative AI Internship**, gaining hands-on experience with Generative AI concepts and applications.
 - 🔭 Currently developing **CodeSync**, a real-time collaborative code editor.
 - 🌱 Currently learning **System Design, AWS, and Advanced Data Structures & Algorithms**.
