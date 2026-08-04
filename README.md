@@ -118,7 +118,7 @@ B.Tech IT Student | MERN Stack Developer | AI/ML Enthusiast
 </p>
 
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-128&theme=tokyo-night&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-128&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
