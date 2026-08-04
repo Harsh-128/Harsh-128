@@ -97,8 +97,6 @@ B.Tech IT Student | MERN Stack Developer | AI/ML Enthusiast
 
 ---
 
----
-
 # 🏆 Certifications
 
 | Certification | Issuer | Year |
