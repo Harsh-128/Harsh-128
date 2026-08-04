@@ -97,6 +97,16 @@ B.Tech IT Student | MERN Stack Developer | AI/ML Enthusiast
 
 ---
 
+---
+
+# 🏆 Certifications
+
+| Certification | Issuer | Year |
+|---------------|--------|------|
+| IBM Generative AI Career Education Program | IBM | 2026 |
+| Oracle Cloud Infrastructure 2025 Certified Foundations Associate | Oracle | 2025 |
+
+
 # 📊 GitHub Stats
 
 <p align="center">
