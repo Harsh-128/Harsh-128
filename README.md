@@ -106,16 +106,21 @@ B.Tech IT Student | MERN Stack Developer | AI/ML Enthusiast
 
 ---
 
+---
+
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Harsh-128&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=Harsh-128&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Harsh-128&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Harsh-128&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-128&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-128&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-128&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
