@@ -123,12 +123,6 @@ B.Tech IT Student | MERN Stack Developer | AI/ML Enthusiast
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Harsh-128/Harsh-128/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
 <h3 align="center">
 ⭐ Thanks for visiting my profile! ⭐
 </h3>
