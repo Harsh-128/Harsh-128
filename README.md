@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harsh Sharmaa</h1>
+<h1 align="center">Hi 👋, I'm Harsh Sharma</h1>
 
 <h3 align="center">
 B.Tech IT Student | MERN Stack Developer | AI/ML Enthusiast
