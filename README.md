@@ -30,6 +30,13 @@ B.Tech IT @ **Vellore Institute of Technology** · Graduating **2027** Open to *
 
 ---
 
+# 🏆 Certifications
+
+| Certification | Issuer | Year |
+|---------------|--------|------|
+| IBM Generative AI Career Education Program | IBM | 2026 |
+| Oracle Cloud Infrastructure 2025 Certified Foundations Associate | Oracle | 2025 |
+
 ## Stack
 
 <p><b>Languages</b>&nbsp;&nbsp;
@@ -74,12 +81,7 @@ B.Tech IT @ **Vellore Institute of Technology** · Graduating **2027** Open to *
 
 ---
 
-# 🏆 Certifications
 
-| Certification | Issuer | Year |
-|---------------|--------|------|
-| IBM Generative AI Career Education Program | IBM | 2026 |
-| Oracle Cloud Infrastructure 2025 Certified Foundations Associate | Oracle | 2025 |
  
 ---
 
