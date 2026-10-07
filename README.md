@@ -30,7 +30,7 @@ B.Tech IT @ **Vellore Institute of Technology** · Graduating **2027** Open to *
 
 ---
 
-# 🏆 Certifications
+#  Certifications
 
 | Certification | Issuer | Year |
 |---------------|--------|------|
