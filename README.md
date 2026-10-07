@@ -78,15 +78,6 @@ B.Tech IT @ **Vellore Institute of Technology** · Graduating **2027** Open to *
 
 ---
 
-
-
-
----
-
-
- 
----
-
 # 📊 GitHub Stats
 
 <p align="center">
