@@ -10,13 +10,14 @@ B.Tech IT Student | MERN Stack Developer | AI/ML Enthusiast
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-- 🎓 Final Year B.Tech Information Technology student at **[VIT Vellore](https://vit.ac.in/)**
-- 💼 Successfully completed the **IBM Generative AI Internship**, gaining hands-on experience with Generative AI concepts and applications.
-- 🔭 Currently developing **CodeSync**, a real-time collaborative code editor.
-- 🌱 Currently learning **System Design, AWS, and Advanced Data Structures & Algorithms**.
-- 👯 Interested in collaborating on **Open Source, Full-Stack, and AI/ML projects**.
+B.Tech IT @ **Vellore Institute of Technology** · Graduating **2027** Open to **SDE / Backend / Full-Stack** roles
+
+- Open source contributor @ **go-gitea/gitea**: fixing OAuth2 and code review bugs
+- Generative AI Intern @ **IBM**: hands-on with Generative AI concepts and applications
+- Built **CodeSync**: a real-time collaborative code editor
+- Learning **System Design, AWS, and Advanced DSA**
 
 ---
 
