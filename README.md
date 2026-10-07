@@ -78,7 +78,7 @@ B.Tech IT @ **Vellore Institute of Technology** · Graduating **2027** Open to *
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Harsh-128&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
