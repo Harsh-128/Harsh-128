@@ -21,7 +21,7 @@ B.Tech IT @ **Vellore Institute of Technology** · Graduating **2027** Open to *
 
 ---
 
-# 🤝 Open Source Contributions
+#  Open Source Contributions
 
 | Repo | Impact | PR |
 |:----:|:-------|:--:|
