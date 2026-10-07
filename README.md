@@ -5,15 +5,15 @@ B.Tech IT Student | MERN Stack Developer | AI/ML Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;AI%2FML+Enthusiast;Competitive+Programmer;Open+Source+Learner;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;AI%2FML+Enthusiast;Competitive+Programmer;Open+Source+Contributor;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 ---
 
 ## About
 
-B.Tech IT @ **Vellore Institute of Technology** · Graduating **2027** Open to **SDE / Backend / Full-Stack** roles
-
+B.Tech IT @ **Vellore Institute of Technology** · Graduating **2027** · Open to **SDE / Backend / Full-Stack** roles
+   
 - Open source contributor @ **go-gitea/gitea**: fixing OAuth2 and code review bugs
 - Generative AI Intern @ **IBM**: hands-on with Generative AI concepts and applications
 - Built **CodeSync**: a real-time collaborative code editor
@@ -21,7 +21,7 @@ B.Tech IT @ **Vellore Institute of Technology** · Graduating **2027** Open to *
 
 ---
 
-#  Open Source Contributions
+## Open Source Contributions
 
 | Repo | Impact | PR |
 |:----:|:-------|:--:|
@@ -30,7 +30,7 @@ B.Tech IT @ **Vellore Institute of Technology** · Graduating **2027** Open to *
 
 ---
 
-#  Certifications
+## Certifications
 
 | Certification | Issuer | Year |
 |---------------|--------|------|
