@@ -97,6 +97,16 @@ B.Tech IT Student | MERN Stack Developer | AI/ML Enthusiast
 
 ---
 
+
+# 🤝 Open Source Contributions
+
+| Repo | Impact | PR |
+|:----:|:-------|:--:|
+| [go-gitea/gitea](https://github.com/go-gitea/gitea) | Fix OAuth2 scope-change error by letting users approve new scopes | [#38942](https://github.com/go-gitea/gitea/pull/38942) |
+| [go-gitea/gitea](https://github.com/go-gitea/gitea) | Allow reviewers to re-request their own uncounted approvals | [#38988](https://github.com/go-gitea/gitea/pull/38988) |
+
+---
+
 # 🏆 Certifications
 
 | Certification | Issuer | Year |
