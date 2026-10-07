@@ -21,23 +21,12 @@ B.Tech IT @ **Vellore Institute of Technology** · Graduating **2027** Open to *
 
 ---
 
-<h2 align="center">🌐 Connect with Me</h2>
+# 🤝 Open Source Contributions
 
-<p align="center">
-
-<a href="https://www.linkedin.com/in/harsh-sharma-3267r65/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:harshee2000@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/khush200412/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-</p>
+| Repo | Impact | PR |
+|:----:|:-------|:--:|
+| [go-gitea/gitea](https://github.com/go-gitea/gitea) | Fix OAuth2 scope-change error by letting users approve new scopes | [#38942](https://github.com/go-gitea/gitea/pull/38942) |
+| [go-gitea/gitea](https://github.com/go-gitea/gitea) | Allow reviewers to re-request their own uncounted approvals | [#38988](https://github.com/go-gitea/gitea/pull/38988) |
 
 ---
 
@@ -81,12 +70,7 @@ B.Tech IT @ **Vellore Institute of Technology** · Graduating **2027** Open to *
 ---
 
 
-# 🤝 Open Source Contributions
 
-| Repo | Impact | PR |
-|:----:|:-------|:--:|
-| [go-gitea/gitea](https://github.com/go-gitea/gitea) | Fix OAuth2 scope-change error by letting users approve new scopes | [#38942](https://github.com/go-gitea/gitea/pull/38942) |
-| [go-gitea/gitea](https://github.com/go-gitea/gitea) | Allow reviewers to re-request their own uncounted approvals | [#38988](https://github.com/go-gitea/gitea/pull/38988) |
 
 ---
 
